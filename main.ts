@@ -12,6 +12,3 @@ loops.everyInterval(500, function () {
         datalogger.log(datalogger.createCV("s", input.acceleration(Dimension.Strength)))
     }
 })
-basic.forever(function () {
-	
-})
